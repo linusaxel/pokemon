@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Hey cutie</h1>
+        <h1 className={styles.title}>Hey cutieeeee</h1>
       </main>
     </div>
   )
